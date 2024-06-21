@@ -1,11 +1,8 @@
-### Hi there 👋
+### Greetings to creative people, all over the world! 🌍🌏🌎
 
-I am a father, a husband, and a Roku developer. 
-I also enjoy 3D design, design, games, and photography. 
-When I'm not programming, I spend my time with my wife and daughter. 
-I like to read books and follow the flow of IT technologies. 
-I miss traveling and getting to know new cultures. 
-In the end, I am Stefan Radosavljevic, and I'm coming from Serbia.
+Well, how to start? 
+I'm trying to be a better person, which is mandatory, and then 
+to be a better programmer, to write better code, to be more creative and innovative.
 <!--
 **lux-1n-tenebris/lux-1n-tenebris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

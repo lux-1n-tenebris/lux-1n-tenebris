@@ -4,8 +4,7 @@
 Well, how to start?
 \
 I'm Stefan Radosavljević, and I'm coming from Serbia.
-First of all, I'm trying to be a better person, which is mandatory, and then 
-to be a better programmer, to write better code, to be more creative and innovative.
+First of all, I'm trying to improve myself everyday, which is mandatory.
 
 ### About me: 
 

@@ -4,7 +4,7 @@
 Well, how to start?
 \
 I'm Stefan Radosavljević, and I'm coming from Serbia.
-First of all, I'm trying to improve myself everyday, which is mandatory.
+First, I'm trying to improve myself daily, which is mandatory.
 
 ### About me: 
 

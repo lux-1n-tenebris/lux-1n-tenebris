@@ -4,11 +4,11 @@
 Well, how to start?
 \
 I'm Stefan Radosavljević, and I'm coming from Serbia.
-First, I'm trying to improve myself daily, which is mandatory.
+As a daily task, I'm trying to improve myself in every aspect, which is a real challenge.
 
 ### About me: 
 
-I am a father, a husband, and a Roku developer. I also enjoy 3D design, design, games, and photography. When I'm not programming I'm spending my time with my wife and daughter. I like to read books and follow the flow of IT technologies. I miss traveling and getting to know new cultures.
+I am a father, a husband, and a Roku developer. I also enjoy 3D design, games, and photography. When I'm not programming I'm spending my time with my wife and daughter. I like to read books and follow the flow of IT technologies. I miss traveling and getting to know new cultures.
 
 
 💡 Started as a front-end developer.

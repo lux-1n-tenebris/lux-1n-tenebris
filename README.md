@@ -21,8 +21,16 @@ I am a father, a husband, and a Roku developer. I also enjoy 3D design, games, a
 <br />
 
 <div display="block">
-<img width="90" src="https://1000logos.net/wp-content/uploads/2023/06/Roku-Logo.png" />
-<img width="50" src="https://rokucommunity.gallerycdn.vsassets.io/extensions/rokucommunity/brightscript/2.48.5/1717532132606/Microsoft.VisualStudio.Services.Icons.Default" />
+  <img width="90" src="https://1000logos.net/wp-content/uploads/2023/06/Roku-Logo.png" />
+  <img width="50" src="https://rokucommunity.gallerycdn.vsassets.io/extensions/rokucommunity/brightscript/2.48.5/1717532132606/Microsoft.VisualStudio.Services.Icons.Default" />
+  <img width="50" src="https://images.icon-icons.com/2415/PNG/512/react_original_wordmark_logo_icon_146375.png"/>
+  <img width="65" src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg"/>
+  <img width="65" src="https://miro.medium.com/v2/1*wGdP-ym3kqQopOA9us8nXg.jpeg"/>
+  <img width="50" src="https://cdn.worldvectorlogo.com/logos/threejs-1.svg"/>
+  
+
+  
+    
 <!-- <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" /> -->
 <!-- <img width="50" src="https://www.svgrepo.com/show/342325/unity.svg" /> -->
 <!-- <img width="50" src="https://www.svgrepo.com/show/353488/blender.svg" /> -->

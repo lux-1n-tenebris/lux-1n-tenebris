@@ -1,8 +1,9 @@
 ## <p align="center">Greetings to creative people, all over the world! 🌍 🌏 🌎</p>
 ### <p align="center">I'm a Roku Software Developer - 六 - ろく!</p>
-\
-Well, how to start?
-\
+<br />
+
+### Well, how to start?
+
 I'm Stefan Radosavljević, and I'm coming from Serbia.
 As a daily task, I'm trying to improve myself in every aspect, which is a real challenge.
 

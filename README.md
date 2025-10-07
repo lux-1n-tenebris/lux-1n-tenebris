@@ -8,14 +8,25 @@ As a daily task, I'm trying to improve myself in every aspect, which is a real c
 
 ### About me: 
 
-I am a father, a husband, and a Roku developer. I also enjoy 3D design, games, and photography. When I'm not programming I'm spending my time with my wife and daughter. I like to read books and follow the flow of IT technologies. I miss traveling and getting to know new cultures.
+I am a husband, a father, and a Roku Software Developer. I also enjoy 3D design, games, and photography. When I'm not programming, I'm spending my time with my wife and daughter. I like to read books and follow the flow of IT technologies. I miss traveling and getting to know new cultures.
+
+### Technical Summary:
+
+- Roku Development: 7+ years of experience with Roku SDK, SceneGraph, BrightScript, XML, custom video players, and building scalable white-label solutions for 5+ client brands, as well as working on a global application
+- Streaming & Media: Strong understanding of HLS/DASH streaming, and DRM technologies (PlayReady, Widevine)
+- Analytics & Monitoring: Integrated platforms including Conviva, Google Analytics, Adobe Analytics, and New Relic for performance and user behavior insights
+- Web Development: 3+ years of frontend experience with HTML, CSS, JavaScript, React, and RESTful APIs
+- Web/Mobile/Desktop: Recently involved in React, React Native, Expo, GSAP, and ThreeJS applications, as well as a SaaS product with the AI voice integration, and ElectronJS.
+- iOS Development: Hands-on experience with Xcode, Swift, and the company's internal iOS app
+- Tools & Workflow: Git, Charles, Roku Tools, Postman, Jira, Confluence, Agile/Scrum methodologies
+- Other Interests: Passionate about game development, currently learning Unity and C# in my spare time. Blender and 3D are also on this list
 
 
 💡 Started as a front-end developer.
 \
 🎸 I'm trying to learn to play an instrument.
-
-<!-- 📚 I'm currently learning Unity, Blender, and C#. -->
+\
+📚 I'm currently learning Unity, Blender, and C#.
 
 
 <br />
